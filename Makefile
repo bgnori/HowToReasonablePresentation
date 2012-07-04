@@ -41,6 +41,9 @@ help:
 clean:
 	-rm -rf $(BUILDDIR)/*
 
+install:
+	cp -r _build/html/* /home/nori/Desktop/Dropbox/Public/HowToReasonablePresentation/
+
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
