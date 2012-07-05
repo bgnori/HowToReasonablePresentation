@@ -110,7 +110,7 @@ http://github.com/bgnori
 
 内容の正しさ
 ------------
-今回の話の中心では**ない**。
+今回の話の中心では **ない** 。
 
 作った物を読み直す
 
@@ -220,43 +220,45 @@ Mutually Exclusive and Collectively Exhaustive
 
 プレゼンの構造
 --------------
-* 表紙/who
+表紙/who
 
-* 動機/「目次」
+動機/「目次」
 
-* 中身
+中身
 
-* まとめ
+まとめ
 
-* 分量めやす: 1枚あたり1分
+分量めやす: 1枚あたり1分
 
 スライドの構造(1)
 -----------------
-* 方針: "less is more"
+方針: "less is more"
 
-* 文章では無くキーワード列挙
+文章では無くキーワード列挙
 
-* アニメーション禁止
+アニメーション禁止
 
-* タイトルは必須(slideはピラミッド)
+タイトルは必須(slideはピラミッド)
 
 
 スライドの構造(2)
 -----------------
-* 同じタイトルなら番号を
+同じタイトルなら番号を
 
-* 一方通行、必要なら同じslideを
+一方通行、必要なら同じslideを
 
-* 十分に大きな文字で
+十分に大きな文字で
 
-* 絵の枚数は1枚
+絵の枚数は1枚
 
 
 スライドの構造(3)
 -----------------
-* 関係ない物禁止
+関係ない物禁止
 
-* 笑いをとるな、中身で勝負
+笑いをとるな、中身で勝負
+
+
 
 
 内容の流れ
@@ -290,11 +292,11 @@ Mutually Exclusive and Collectively Exhaustive
 
 2倍に上達 100回, 4倍に上達 10000回
 
-.. figure:: source/origami-practice.jpg 
+.. image:: source/origami-practice.jpg 
 
 .. s6:: styles
 
-    'div/img': {textAlign: 'center', height:'40%'}
+    'div/img': {textAlign: 'center', height:'60%'}
 
 .. 
 
@@ -339,29 +341,27 @@ Mutually Exclusive and Collectively Exhaustive
 
 特性を生かす
 
-適切に構成
+適切な構造と構成
 
 準備しよう
 
 
 おまけ
 ------
- * 「おれすげーいーことしゃべった」 翌朝目覚めると何も変わってない （◞‸◟）
+「おれすげーいーことしゃべった」 
 
-.. figure:: source/chinowa.jpg
-
-.. s6:: styles
-    'div/text': {fontsize:'50%'}
-    'div/img': {textAlign: 'center', height:'50%'}
-
-.. 
-    http://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%93
+翌朝目覚めると何も変わってない （◞‸◟）
 
 
 ありがとうございました
 ----------------------
+`大祓（おおはらえ）`__
 
-.. figure:: source/thanks.jpg 
+__ http://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%93 
 
-    'div/img': {textAlign: 'center', height:'60%'}
+.. image:: source/chinowa.jpg
+
+.. s6:: styles
+
+    'div/img': {textAlign: 'center', height: '60%'}
 
